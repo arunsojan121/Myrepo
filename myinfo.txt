@@ -1,0 +1,4 @@
+MY name is KHAN
+Location=delhi
+age=33
+
